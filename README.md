@@ -9,7 +9,7 @@ Weather data by openweathermap.org<br>
 -ai parameter for autolocation icon URL<br>
 -i parameter for icon URL<br><br>
 
-Example output:<br>
+<strong>Example output:</strong><br>
 Weather condition for New York United States of America<br>
 Situation: sky is clear<br>
 Temperature: -1C<br>
