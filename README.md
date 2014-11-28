@@ -3,11 +3,11 @@ cmdWeather
 
 A comand-line  weather tool
 
-Weather data by openweathermap.org
--a parameter for autolocation
--f parameter for forecast data
--ai parameter for autolocation icon URL
--i parameter for icon URL
+Weather data by openweathermap.org<br>
+-a parameter for autolocation<br>
+-f parameter for forecast data<br>
+-ai parameter for autolocation icon URL<br>
+-i parameter for icon URL<br><br>
 
 Example output:<br>
 Weather condition for New York United States of America<br>
