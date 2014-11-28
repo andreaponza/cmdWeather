@@ -4,7 +4,7 @@ cmdWeather
 A comand-line  weather tool
 
 Weather data by openweathermap.org<br>
--a parameter for autolocation<br>
+-a parameter for autolocation (based on core location)<br>
 -f parameter for forecast data<br>
 -ai parameter for autolocation icon URL<br>
 -i parameter for icon URL<br><br>
