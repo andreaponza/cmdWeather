@@ -9,11 +9,11 @@ Weather data by openweathermap.org
 -ai parameter for autolocation icon URL
 -i parameter for icon URL
 
-Example output:
-Weather condition for New York United States of America
-Situation: sky is clear
-Temperature: -1C°
-Wind: West 8knots
-Pressure: 1019hPa
-Humidity: 74%
-Sun: ↑11:58am ↓21:30pm
+Example output:<br>
+Weather condition for New York United States of America<br>
+Situation: sky is clear<br>
+Temperature: -1C<br>
+Wind: West 8knots<br>
+Pressure: 1019hPa<br>
+Humidity: 74%<br>
+Sun: ↑11:58am ↓21:30pm<br>
