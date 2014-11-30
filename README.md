@@ -1,7 +1,7 @@
 cmdWeather
 ==========
 
-A comand-line  weather tool
+A command-line  weather tool
 
 Weather data by openweathermap.org<br>
 -a parameter for autolocation (based on core location)<br>
